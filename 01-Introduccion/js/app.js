@@ -28,3 +28,9 @@ console.log("Mensajes hacia la consola para ver cuanto tarda");
 console.log("Mensajes hacia la consola para ver cuanto tarda");
 console.log("Mensajes hacia la consola para ver cuanto tarda");
 console.timeEnd("Hola")
+
+// Uso del punto y coma
+// Si lo uso así sin punto y coma es error
+// console.log("Hola") console.log("Hola")
+// Si lo uso con punto y coma si funciona
+console.log("Hola"); console.log("Hola");
